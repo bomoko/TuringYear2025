@@ -1,5 +1,7 @@
 # 📚 The Year of Turing – A Structured Reading Plan
 
+BMK Note: this will need to be adjusted as I go along - generated with LLM help, so accuracy is questionable at best.
+
 ## 🏆 Goal
 Dedicate a year to studying Alan Turing’s life, work, and legacy by reading three major books:
 - **Jack Copeland – *The Essential Turing***
