@@ -54,7 +54,6 @@ Dedicate a year to studying Alan Turing’s life, work, and legacy by reading th
 
 - [ ] **Copeland – Chapters 18–20** (Turing’s impact on modern computing)
 - [ ] **Hodges – Final reflections on Turing’s life and impact**
-- [ ] **Reread *Gödel, Escher, Bach* by Hofstadter (optional, but insightful)**
 - [ ] **Final Checkpoint:** How has my understanding of Turing evolved over the year?
 
 
